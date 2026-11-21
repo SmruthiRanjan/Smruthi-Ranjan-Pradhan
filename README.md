@@ -4,8 +4,8 @@ Developer · Data & BI Analyst · UI/UX Designer based in Mysuru, Karnataka, Ind
 
 MCA graduate who turns data into decisions and ideas into reliable software, using Python, Django, SQL, Business Intelligence and clean UI/UX.
 
-**About me
-**
+About me
+
 - 🎓 MCA (CGPA 8.18) from Pooja Bhagavat Memorial Mahajana PG Center and BCA (CGPA 7.94) from St. Philomena's College, Mysuru
 - 💼 Market Intelligence Analyst at Tekvocation Pvt Ltd
 - 🧑‍💻 Previously interned at Excelsoft Technologies (Python / Django) and OctaNet Pvt Ltd
@@ -13,8 +13,8 @@ MCA graduate who turns data into decisions and ideas into reliable software, usi
 - 🤖 Building faster with AI tools such as Claude Code, Cursor AI and Google AI Studio
 - 📫 Reach me at smruthiranjanpradhan@gmail.com
 
-**Certifications
-**
+Certifications
+
 - Data Science
 - IoT
 - Technical Consulting
