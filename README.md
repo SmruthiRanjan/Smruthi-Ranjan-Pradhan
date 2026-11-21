@@ -7,7 +7,7 @@ MCA graduate who turns data into decisions and ideas into reliable software, usi
 About me
 
 - 🎓 MCA (CGPA 8.18) from Pooja Bhagavat Memorial Mahajana PG Center and BCA (CGPA 7.94) from St. Philomena's College, Mysuru
-- 💼 Market Intelligence Analyst at Tekvocation Pvt Ltd
+- 💼 Data Intelligence Analyst at Tekvocation Pvt Ltd
 - 🧑‍💻 Previously interned at Excelsoft Technologies (Python / Django) and OctaNet Pvt Ltd
 - 📊 Focused on Business Intelligence, Data Analytics, SQL and web development
 - 🤖 Building faster with AI tools such as Claude Code, Cursor AI and Google AI Studio
